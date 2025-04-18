@@ -540,7 +540,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](output/output_21_0.png)
     
 
 
@@ -626,7 +626,7 @@ print(classification_report(y_true, y_pred, target_names=class_labels))
 
 
     
-![png](output_25_1.png)
+![png](output/output_25_1.png)
     
 
 
@@ -863,7 +863,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](output/output_35_0.png)
     
 
 
@@ -932,7 +932,7 @@ print(classification_report(y_true, y_pred, target_names=class_labels))
 
 
     
-![png](output_38_1.png)
+![png](output/output_38_1.png)
     
 
 
@@ -1131,7 +1131,7 @@ for class_name in classes:
 
 
     
-![png](output_44_3.png)
+![png](output/output_44_3.png)
     
 
 
@@ -1153,7 +1153,7 @@ for class_name in classes:
 
 
     
-![png](output_44_7.png)
+![png](output/output_44_7.png)
     
 
 
@@ -1387,7 +1387,7 @@ plt.show()
 
 
     
-![png](output_50_3.png)
+![png](output/output_50_3.png)
     
 
 
@@ -1493,7 +1493,7 @@ display_gradcam_per_class(test_df, model, base_model)
 
 
     
-![png](output_52_0.png)
+![png](output/output_52_0.png)
     
 
 
