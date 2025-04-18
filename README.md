@@ -146,7 +146,7 @@ show_sample_images(df, classes=["Healthy", "Moderate DR", "Severe DR"], samples_
 
 
     
-![png](../output/output_6_0.png)
+![png](output/output_6_0.png)
     
 
 
